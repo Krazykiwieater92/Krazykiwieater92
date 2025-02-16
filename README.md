@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![KrazyKiwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krazykiwieater92)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)(https://www.linkedin.com/in/eli-schachter-409877184/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/eli-schachter-409877184/)
