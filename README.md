@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![KrazyKiwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krazykiwieater92)](https://github.com/anuraghazra/github-readme-stats)
-[https://img.shields.io/badge/Linkedin_profile-blue]
-
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)
