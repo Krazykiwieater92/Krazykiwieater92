@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![KrazyKiwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krazykiwieater92)
-![Profile Views](https://komarev.com/ghpvc/?username=KrazyKiwieater92&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=KrazyKiwieater92&color=red&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eli-schachter-409877184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
