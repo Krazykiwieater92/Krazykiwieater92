@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![KrazyKiwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krazykiwieater92)
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eli-schachter-409877184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)
