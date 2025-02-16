@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![KrazyKiwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krazykiwieater92)
 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)]
